@@ -1,0 +1,49 @@
+h1{
+	color: red;
+	font-size: 99px;
+border: dashed pink 10px;
+}
+p{
+	color: blue;
+
+}
+img{
+border:50px solid;	
+border-right: 10px dashed red;
+}
+a{
+
+font-size: 99px;
+
+
+}
+a:hover{
+
+color:green;	
+}
+
+a:active{
+color: red;
+
+}
+.style1{
+
+color: orange
+
+}
+
+.style2{
+color: green;
+background: black;	
+}
+
+.style3:hover{
+font-family: Arial;
+line-height: 1.5;
+font-size: 18px;
+font-size: 99px;
+text-align: left;
+text-indent: 36px;
+text-decoration: underline;
+background-color:orange
+}
